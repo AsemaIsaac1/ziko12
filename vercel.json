@@ -3,3 +3,141 @@
     {"source": "/(.*)", "destination": "/"}
   ]
 }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>my cv </title>
+    <style type="text/css">
+ #big_wrapper{
+					            border:1px solid black;
+								margin:10px auto;
+								width:1000px;
+								}
+								#top_menu{
+         background-color:#00ff00;
+		 color:#FFFFFF;
+		 }
+
+        a:link {
+	   color:#000066;
+	text-decoration:none;
+	}
+a:visited {
+		color:#CC0000;
+		}
+ a:hover {
+      background-color:blue;
+      color:#00ffFF;
+      text-decoration:underline;
+		}
+a:active{
+	  background-color:#99CC00;
+		 }
+        #top_menu li{
+          display:inline-block;
+		  list-style:none;
+		  padding:3px;
+		  font:"Times New Roman" 14px bold;
+		  }
+h1{
+    color:red;
+}
+</style>
+</head>
+<body bgcolor="white">
+    <div id="big_wrapper">
+        <header>
+            <center><h1><a href="http://google.com" title=" my website">www.zikoint'l.ng.com</a></h1></center>
+        </header>
+    <nav id="top_menu">
+        <ul>
+        <li><a href="./Exercise/news.html">NEWS</a></li>
+        <li><a href="./Exercise/Images.html">IMAGE</a></li>
+        <li><a href="./Exercise/videos.html">VIDEOS</a></li>
+        <li><a href="./Exercise/audios.html">AUDIOS</a></li><p></p><p></p>
+        <p>
+       
+        </ul>
+    </nav>
+    </div>
+    <img src="ziko1.jpg" height="100" width="100" align="left"/>
+</p>
+<a href="http://google.com" title="The best search engine ever"><center>
+<font face="times new roman" size="10" color="green">Google</font></center></a>
+
+   <center> <p>
+        ASEMA ISAAC IORHEN
+    </p></center>
+<center><p>No 20, Along Agagbe road, Kpankeeke, Naka town,Gwer/west, Benue State.</p></center>
+        <center><p>+2348100671528</p></center>
+    <center><p>asema8235@gmail.com</p></center>
+<center><p>
+    CAREER OBJECTIVE:</p></center>
+    <hr/>
+   <span ></span> To serve in a growing organisation, with challenges and to use my educational qualification and skills available to contribute to the initiative and development of the organization.
+    
+    To enhance my career and working environment where I can learn and work as a team with others.<br/><p></p><p></p>
+    <hr/>
+    PERSONAL DATA:<br/>
+    Date of Birth:           	           7 march, 1992<br/>
+    Place of Birth:                   	Naka <br/>
+    State of Origin:                  	Benue<br/>
+    Local Govt of Origin:         	Gwer/west<br/>
+    Sex:                                      	Male<br/>
+    Marital Status:                   	Single <br/>
+    Nationality:                         	Nigerian<br/> 
+    <p>
+    QUALIFICATONS:
+    </p>
+    <hr/>
+    First School Leaving Primary Certificate (FSLPC)           2006                              Merit <br/>                 
+    National Examination Council (NECO)                        2012                              Very Good <br/>                                                                               
+    Bachelor of Science (B.Sc.) in Industrial Physics          (2016)                            Second Class Lower <br/>   
+    
+    SKILL AND ABILITIES:<br/>
+    •	Website development<br/>
+    •	Data analysis.<br/>
+    •	Ability to work under pressure and without supervision and enjoying team work.<br/>
+    •	Ability to use the computer system.<br/>
+    •	High drive for success, achievement and ready to take challenges.<br/>
+    •	Quick to learn, Discipline and God fearing <br/>
+    <p>
+    WORKING EXPERIENCE:
+    </p>
+<hr/>
+    1. Kingdom Secondary School Naka (Physics, Teacher part time)                             2013-2015 <br/>                                                                       
+    2. Cornerstone College Naka (Physics Teacher, full time)                                            2017  <br/>                                                                
+    3. Hampos College Kaduna (NYSC, Mathematics and Physics teacher)        2018-<br/>
+    4. Efficient International School Kaduna (Physics and Further Mathematics Teacher, Full time) 2019-2020<br/>
+    5. Redeemers Int’l school Kaduna (Physics and Further Mathematics Teacher, Full time) 2021 till date<br/>
+    6. Success Science Extramural Kaduna (Physics and Further Mathematics Teacher (online) 2021 till date<br/>
+    
+    <hr/>
+    
+    HOBBIES: <br/>
+    Creative Writing<br/>
+    Research <br/>
+    Music and sport<br/>
+    
+    <hr/>
+    
+    REFEREES:
+    
+    Dr.peverga Rex, Jubu<br/>
+    Senior Lecturer <br/>
+    Federal University of Agriculture Makurdi Benue State Nigeria<br/>
+    <a href="emailto:peverga.jubu@uam.edu.ng" title="My referee">peverga.jubu@uam.edu.ng</a><br/>
+    +2347039017590<br/>
+    ______________________________________________________<br/>
+    Dr.Oghenetega Oweh<br/>
+    Lecturer Kaduna State University Nigeria<br/>
+    <a href="emailto:oghenetega.oweh@kasu.edu.ng.com" title="My referee">oghenetega.oweh@kasu.edu.ng</a><br/>
+    +2348064017444<br/>
+    
+    
+</body>
+</html>
